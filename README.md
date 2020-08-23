@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+- 🌐 Visit my website ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,15 +18,15 @@ Here are some ideas to get you started:
 
 My name is Panagiotis Sklidas and study Computer Science <!--student from Greece. I am studying on the--> at the Department of Informatics at International Hellenic University located in Kavala.
 
-<!--🌐 Visit my website-->
-
 💬 On the chance that you might want to contact with me don't hesitate to send me a message or an email.
 
 📫 How to reach me: panagiotis.skl@gmail.com 
 <p>
-  <a href="https://www.linkedin.com/in/konstantinos-papanagnou-7989ba195" rel="nofollow"><img src="https://camo.githubusercontent.com/e7f906bcc822868be114653e327010e2aed91368/68747470733a2f2f696d672e69636f6e73382e636f6d2f736d616c6c2f33322f3030303030302f6c696e6b6564696e2e706e67" alt="alt text" data-canonical-src="https://img.icons8.com/small/32/000000/linkedin.png" style="max-width:100%;"></a>
-  <a href="https://www.facebook.com/panagiotis.skl" rel="nofollow"><img src="https://camo.githubusercontent.com/5768964dcaac087c7c13a13ea366e432bc3358ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f736d616c6c2f33322f3030303030302f66616365626f6f6b2e706e67" alt="alt text" data-canonical-src="https://img.icons8.com/small/32/000000/facebook.png" style="max-width:100%;"></a>
-  <a href="https://www.instagram.com/panagiotis_sklidas/" rel="nofollow"><img src="https://camo.githubusercontent.com/653f45d20af0effc98261246b5960b5d3e4f8b02/68747470733a2f2f696d672e69636f6e73382e636f6d2f736d616c6c2f33322f3030303030302f696e7374616772616d2d6e65772e706e67" alt="alt text" data-canonical-src="https://img.icons8.com/small/32/000000/instagram-new.png" style="max-width:100%;"></a>
-<!--  <a href="https://www.youtube.com/channel/UCIe7HQsoWCTCidJ5RqDajPg" rel="nofollow"><img src="https://camo.githubusercontent.com/dc7b7cb37fb94871ed8ed4e77f1f446c1e5a8489/68747470733a2f2f696d672e69636f6e73382e636f6d2f736d616c6c2f33322f3030303030302f796f75747562652e706e67" alt="alt text" data-canonical-src="https://img.icons8.com/small/32/000000/youtube.png" style="max-width:100%;"></a>-->
-  <a href="http://www.github.com/pasklid"><img src="https://camo.githubusercontent.com/4d4742cd80e507ee393a4c35d2210fd91c3a3a15/68747470733a2f2f696d672e69636f6e73382e636f6d2f736d616c6c2f33322f3030303030302f6769746875622e706e67" alt="alt text" data-canonical-src="https://img.icons8.com/small/32/000000/github.png" style="max-width:100%;"></a>
+  <a href="https://www.facebook.com/panagiotis.skl" rel="nofollow"><img src="https://camo.githubusercontent.com/0a5769d8966f5ee1a8b1c08782383a19bed8f079/68747470733a2f2f75706c6f61642d69636f6e2e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f69636f6e732f706e672f373430373838363930313535363130353730342d33322e706e67" alt="Facebook Link" title="Facebook" data-canonical-src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/7407886901556105704-32.png" style="max-width:100%;"></a>
+  <a href="https://www.instagram.com/panagiotis_sklidas/" rel="nofollow"><img src="https://camo.githubusercontent.com/d18c84cf7fa70935dce499d933b6bd426e2580b8/68747470733a2f2f75706c6f61642d69636f6e2e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f69636f6e732f706e672f32303038373036323039313535363130353730392d33322e706e67" alt="Instagram Link" title="Instagram" data-canonical-src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20087062091556105709-32.png" style="max-width:100%;"></a>
+  
+  
+  <a href="https://www.linkedin.com/in/panagiotis-sklidas-b964361a7/" rel="nofollow"><img src="https://www.flaticon.com/free-icon/linkedin_1051333?term=linkedin&page=1&position=5" alt="LinkedIn Link" title="LinkedIn" data-canonical-src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20087062091556105709-32.png" style="max-width:100%;"></a>
+  
+  <a href="mailto:panagiotis.skl@gmail.com"><img src="https://camo.githubusercontent.com/9ca4cb70b62f4e7af1b0958370b1827109414ba7/68747470733a2f2f75706c6f61642d69636f6e2e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f69636f6e732f706e672f393634333330303933313535363130353730372d33322e706e67" alt="Gmail Link" title="Gmail" data-canonical-src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/9643300931556105707-32.png" style="max-width:100%;"></a>
 </p>
