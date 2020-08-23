@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Panagiotis Sklidas and study Computer Science <!--student from Greece. I am studying on the--> at the Department of Informatics at International Hellenic University located in Kavala.
+
+<!--🌐 Visit my website-->
+
+💬 On the chance that you might want to contact with me don't hesitate to send me a message or an email.
+
+📫 How to reach me: panagiotis.skl@gmail.com 
